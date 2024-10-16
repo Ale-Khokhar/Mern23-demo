@@ -1,3 +1,5 @@
+
+// simple if else statement
 let a = -2;
 
 if (a < 0){
@@ -7,3 +9,7 @@ if (a < 0){
 }else{
     console.log("a is zero");
 }
+
+// case statement
+
+let b = [1,2,3];
