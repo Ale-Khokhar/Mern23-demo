@@ -52,4 +52,14 @@ let q = array.unshift(96);
 console.log(array, q);
 
 
+// for each loop use on array
+
+const arr = [2,4,6,8,10];
+const new_array = arr.forEach(()=>{
+
+});
+console.log(new_array); // return undefined because forEach method return undefined
+
+
+
 

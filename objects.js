@@ -3,3 +3,5 @@ const person = {
         return Math.random
     })
 }
+
+// convert obj into array and use map loop
